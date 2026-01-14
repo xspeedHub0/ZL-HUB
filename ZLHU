@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xspeedHub0/Zlhub/refs/heads/main/Center.lua"))()
+task.wait(1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xspeedHub0/Zl-HUB/refs/heads/main/loader"))()
+
