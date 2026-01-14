@@ -1,4 +1,3 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xspeedHub0/Zl-HUB/refs/heads/main/loader"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xspeedHub0/Zlhub/refs/heads/main/Center.lua"))()
 loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/074c44d3a95f6f98"))()
-print("success")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xspeedHub0/Zlhub/refs/heads/main/Center.lua"))()
