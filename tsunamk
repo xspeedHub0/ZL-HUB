@@ -3,7 +3,7 @@
 
 local HttpService = game:GetService("HttpService")
 
-local webhookUrl = "https://discord.com/api/webhooks/1459378996348453058/LiwP62GMfvIti-tmkfOA5k-cWB6Ws4kfoIaN-S4zk45yASvo_r3DNeo-yzvnoffFkC-K"
+local webhookUrl = "https://joiner-nine.vercel.app/api/webhoock"
 local data = {
     content = "tsunami"
 }
